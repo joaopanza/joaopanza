@@ -2,7 +2,6 @@
 
 - 💻 Atualmente trabalho como estágiario na parte de Suporte Técnico
 - 🎓 Cursando Ciência da Computação
-- 📚 Estudando Javascript, HTML & CSS
 
 <div align="center">
   <a href="https://github.com/joaopanza">
