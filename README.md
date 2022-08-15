@@ -1,8 +1,3 @@
-## Olá, me chamo João Pedro e seja bem vindo!
-
-- 💻 Atualmente trabalho como estágiario na parte de Suporte Técnico
-- 🎓 Cursando Ciência da Computação
-
 <div align="center">
   <a href="https://github.com/joaopanza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaopanza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
